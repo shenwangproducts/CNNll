@@ -1,0 +1,7 @@
+{
+  "name": "ShenHan Chinese",
+  "description": "ShenHan (神漢) Live-Talk Chinese with real-time tone pitch analyzer, AI Cinema roleplay, HSK 1-6 offline SRS vocab & handwriting, and gamified quest map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
